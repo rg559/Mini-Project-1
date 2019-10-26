@@ -8,3 +8,6 @@ The release branch is then created off of the develop branch signaling it is rea
 **Repository:** a folder or project in which all project files and version histories are saved.
 
 **Clone:** downloading a copy of an existing repository project's source code from the source control
+
+**Fork:** copying an exisiting repository (either your own or someone else's)
+
