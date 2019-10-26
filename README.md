@@ -1,2 +1,3 @@
-# MiniProject1
-Files associated with mini project 1
+# Mini Project 1
+
+## Welcome to: Introduction to Git!
