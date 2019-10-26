@@ -25,6 +25,6 @@ The release branch is then created off of the develop branch signaling it is rea
 
 **Remote Add / Remove / Show:** adds, removes, or shows changes made to a remote file used by collaboraters; where your files and repositories are stored on Git's servers so that you and collaborators can access them.
 
-
 **Status:** brings up a summary of which files have changes that are prepared for the commits
 
+**Master Branch:** the first main branch that is created in your repository and where all original commits are made
