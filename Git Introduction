@@ -4,6 +4,7 @@
 
 **Gitflow Workflow:** a branching method developed by Vincent Driessen; new changes are made in the feature branches which are branched off the Develop Branch. 
 The release branch is then created off of the develop branch signaling it is ready for release. 
+![gitflow](https://miro.medium.com/max/1200/1*L0jHGLTJwZO5CTtpsn-dKA.png)
 
 **Repository:** a folder or project in which all project files and version histories are saved.
 
