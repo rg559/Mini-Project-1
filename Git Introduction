@@ -16,3 +16,5 @@ The release branch is then created off of the develop branch signaling it is rea
 **Commit:** a change to a file or set of files in a repository that names each Save a unique ID to help identify what changes were made to the file.
 
 **Merge:** merging combines two files from a repository or branch and combines them to create a joint file.
+
+**Checkout:** switches between the current entity you are on with another entity (branch, file, commit, etc)
