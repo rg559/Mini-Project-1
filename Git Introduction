@@ -23,3 +23,5 @@ The release branch is then created off of the develop branch signaling it is rea
 
 **Pull:** when you fetch changes from someone working on a file that you want to merge with your file so that it updates your file with other remotely-done changes.
 
+**Remote Add / Remove / Show:** adds, removes, or shows changes made to a remote file used by collaboraters
+
