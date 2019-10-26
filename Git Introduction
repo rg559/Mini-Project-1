@@ -18,3 +18,5 @@ The release branch is then created off of the develop branch signaling it is rea
 **Merge:** merging combines two files from a repository or branch and combines them to create a joint file.
 
 **Checkout:** switches between the current entity you are on with another entity (branch, file, commit, etc)
+
+**Push:** sending your committed changes to a remote repository so that other people can access it.
