@@ -11,3 +11,5 @@ The release branch is then created off of the develop branch signaling it is rea
 
 **Fork:** copying an exisiting repository (either your own or someone else's)
 
+**Branch:** a parallel version of a repository that does not affect the primary branch so it does not affect the live version.
+
