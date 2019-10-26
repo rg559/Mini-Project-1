@@ -6,3 +6,6 @@ Group Members:
   * Reesha Gandhi
   * Hrithik Chaudhary
   
+Changelog:
+  * Reesha Gandhi: Intro to GIT, README.md, index.md
+  * Hrithik Chaudhary: AFS Commands, Misc.
