@@ -1,3 +1,4 @@
 # Mini Project 1
+## Index
 
-## Welcome to: Introduction to Git!
+
