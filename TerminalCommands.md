@@ -39,6 +39,25 @@
 
 ![syntax for history](https://media.geeksforgeeks.org/wp-content/uploads/Screenshot-from-2018-12-14-07-13-54.png)
 
-- **Home directory and ~:** Users can navigate to their home directory by simply typing cd in terminal. The tilde(~) is used to refer to the home directory. 
 
+- **Home directory and tilde:** Users can navigate to their home directory by simply typing cd in terminal. The tilde(~) is used to refer to the home directory. 
 
+- **File paths in Linux:** A path is a unique location to a file or a folder in a file system of an OS. A path to a file is a combination of / and alpha-numeric characters. There are two types of paths in linux: 
+
+    1. **Absolute Path:** An absolute path is defined as the specifying the location of a file or directory from the root directory(/). In other words we can say absolute path is a complete path from start of actual filesystem from / directory.
+Examples of Absolute path are: 
+
+                               /var/ftp/pub
+
+                               /etc/samba.smb.conf
+
+                               /boot/grub/grub.conf
+
+   2. **Relative Path:** Relative path is defined as path related to the present working directory(pwd). Suppose I am located in /var/log and I want to change directory to /var/log/kernel. 
+Examples of Relative path are:  
+   
+                               pwd
+                               /var/log
+                               cd kernel
+                              
+ 
