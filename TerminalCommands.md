@@ -61,3 +61,6 @@ Examples of Relative path are:
                                cd kernel
                               
  
+- **Using the tab key to complete file paths:** The tab completion feature is extremely useful when you are accessing lengthy paths in your filesystem. It helps in completing the directory name or filename without having to type the entire length. You can use the tab key to autocomplete any path in the Finder Go To Folder window, so whether you’re trying to navigate to a local user directory, or some deeply embedded path in the file system, tab it out!
+
+- **Using up and down arrow for history:** When working on terminal, the user can press up or down arrow key to access any commands previously used and stored in the history. This feature is helpful when accessing files while having to browse at multiple locations. The user can simply press up arrow to browse to the previous location. It can also be used to edit any commands with error by adding it on the terminal page first.
