@@ -4,7 +4,7 @@
 
 It is the default editor that comes with the UNIX operating system is called vi (visual editor). Vi is a command line editor included with most linux systems. Vi is a modal editor: it operates in either insert mode (where typed text becomes part of the document) or command mode (where keystrokes are interpreted as commands that control the edit session). Vi works great over slow network ppp modem connections and on systems of limited resources. One can completely utilize vi without departing a single finger from the keyboard. This includes XML, TeX, HTML, and programming languages, but not binary files like Word or OpenDocument. To edit a file, type the command line:
 
-                                             vi filename
+                                                 vi filename
 
 #### There are three modes in vi editor:
 
@@ -26,3 +26,50 @@ Vim controls look strange to start with but there is a logic to them where you c
 5. Typing and Navigating around text is easy and productive.
 6. Provides rich number of command set.
 
+## Basic Vi Commands:
+
+1. **Input Mode Commands**
+
+| Command      | Action |
+| ----------- | ----------- |
+| a      | Insert characters to the right of the cursor|
+| A   | Append characters to the current line|
+| i      | Insert characters to the left of cursor|
+| I      | Insert characters at the beginning of the current line|
+| o   |Add a new line after current line|
+| O      |Insert a new line above the current line|
+
+2. **Command mode commands**
+
+| Command      | Action |
+| ----------- | ----------- |
+| :r file      | Import a file into the current file|
+| :34 r file   | Import a file into the current file|
+| :w	      | Write out the file to save changes|
+| :w file      | Write the file to named file|
+| :wq   | Save the file exit vi|
+| :w!      | Force save the file|
+| :q!	   | Quit vi but don’t save changes|
+| :g/X/s//x/g	      | Global Search and replace (X=search object x=replace object)|
+
+3. **Vi mode commands**
+
+| Command      | Action |
+| ----------- | ----------- |
+| k      | Move one line upwards|
+| l   | Move one character to the right|
+| h      | Move one character to the left|
+| w   | Move one word to the right|
+| b      | Move one word to the left|
+| 1G   | Move to the beginning of the file|
+| H      | Move to the top of the current screen|
+| M   | Move to the middle of the current screen|
+| L      | Move to the bottom of the current screen|
+| Ctrl-G	   | Move to the last line in the file|
+| Ctrl-L	      | Refresh the screen|
+| 5G   | Move to line 5 of the file|
+| ZZ      | Save the file exit vi|
+| x   | Delete the character at the cursor|
+| dd      | Delete the line the cursor is on|
+| 10dd   | Delete the 10 lines following the cursor|
+| yy      | Yank the current line|
