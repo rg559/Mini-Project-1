@@ -7,3 +7,38 @@
 - **mkdir:** The mkdir command in UNIX allows users to create directories or folders as they are referred to in some operating systems. This command can create multiple directories at once and also set permissions when creating the directory.
 
 **Syntax:** &nbsp;&nbsp;&nbsp;*mkdir newdir  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;   mkdir new1 new2 new3*
+
+![syntax for mkdir](https://media.geeksforgeeks.org/wp-content/uploads/Screenshot-from-2018-12-11-17-50-45.png)
+
+
+- **CP:** The CP command is used to copy any file from one folder to other. This commands makes it easy to copy files, especially when dealing with multiple files in a folder, without having to browse for the specific file in a folder and hence saving time.
+
+**Syntax:** &nbsp;&nbsp;&nbsp; *cp source destination*
+
+- **pwd:** pwd stands for Print Working Directory. It prints the path of the working directory, starting from the root.
+
+**Syntax:** &nbsp;&nbsp;&nbsp; *pwd*
+
+![syntax for pwd](http://www.cellbiol.com/bioinformatics_web_development/wp-content/uploads/2017/01/shell_pwd_screenshot.png)
+
+- **mv:** mv stands for move. mv is used to move one or more files or directories from one place to another in file system. It can also be used to rename a file.
+
+**Syntax:** &nbsp;&nbsp;&nbsp; *mv [option] source destination*
+
+![syntax for mv](https://linoxide.com/wp-content/uploads/2014/01/mv_directory.png)
+
+- **rm:** rm stands for remove. rm command is used to remove objects such as files, directories, symbolic links and so on from the file system. To be more precise, rm removes references to objects from the filesystem, where those objects might have had multiple references (for example, a file with two different names).
+
+**Syntax:** &nbsp;&nbsp;&nbsp; *rm dir1  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;   rm dir1 dir2 dir3*
+
+![syntax for rm](https://static.javatpoint.com/linux/images/linux-file-rm1.png)
+
+- **history:** history command is used to view the previously executed command. In Bash shell history command shows the whole list of the command. It can also show the required number of commands as per user.
+
+**Syntax:** &nbsp;&nbsp;&nbsp; *history  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;   history 5*
+
+![syntax for history](https://media.geeksforgeeks.org/wp-content/uploads/Screenshot-from-2018-12-14-07-13-54.png)
+
+- **Home directory and ~:** Users can navigate to their home directory by simply typing cd in terminal. The tilde(~) is used to refer to the home directory. 
+
+
