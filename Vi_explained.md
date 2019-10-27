@@ -28,6 +28,14 @@ Vim controls look strange to start with but there is a logic to them where you c
 
 ## Basic Vi Commands:
 
+- **Creating a File:** For creating a new file, type "vi <filename.extension>" So, if we want to create a file named Test.txt we type "vi Test.txt" and press Enter.
+
+- **Editing a File:** For editing a file, press "i" and the editor goes into insert mode, and then the user can edit the document using several shortcut commands provided. Press (esc) key to exit the insert mode.
+
+- **Saving/Quiting a File:** For saving a file, press ":w" and press enter. For closing a file, press ":q" and press enter. You can also press "wq" and press enter to save and quit vi at once.
+
+### Other Useful Vi Commands
+
 1. **Input Mode Commands**
 
 | Command      | Action |
