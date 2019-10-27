@@ -8,4 +8,4 @@ Group Members:
   
 Changelog:
   * Reesha Gandhi: Intro to GIT, README.md, index.md
-  * Hrithik Chaudhary: Terminal Commands.md, Vi_Explained.md, GitandOthers.md
+  * Hrithik Chaudhary: Terminal Commands.md, Vi_Explained.md, GitandOthers.md.
