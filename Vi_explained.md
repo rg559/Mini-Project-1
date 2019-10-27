@@ -1,4 +1,4 @@
-# Vi Text Editor
+# Vi Text Editor <img src="https://files.fosswire.com/2010/06/vim_logo.png" alt="vi logo" width="40"/>
 
 ## What is Vi Editor?
 
