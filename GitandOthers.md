@@ -29,3 +29,15 @@ Docker is a tool designed to make it easier to create, deploy, and run applicati
 - With Docker, developers can focus on writing code without worrying about the system on which their code will run. Applications become truly portable. You can repeatably run your application on any other machine running Docker with confidence.
 - Docker enables you to build a container image and use that same image across every step of the deployment process. A huge benefit of this is the ability to separate non-dependent steps and run them in parallel.
 
+
+## Automated Testing
+
+Automated testing is the act of conducting specific tests via automation (e.g. a set of regression tests) as opposed to conducting them manually, while test automation refers to automating the process of tracking and managing the different tests. There are many challenges to manual testing such as testing multi-lingual data, time constraint, and execution speed.
+
+### Benefits of Automated Testing
+
+- Significantly **faster** than manual testing (~70% faster)
+- Improves **accuracy**, increases **efficiency**, and ensures **consistency**.
+- Human Intervention is not required while execution
+- Wider test coverage of application features
+
