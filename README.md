@@ -8,4 +8,4 @@ Group Members:
   
 Changelog:
   * Reesha Gandhi: Intro to GIT, README.md, index.md
-  * Hrithik Chaudhary: AFS Commands, Misc.
+  * Hrithik Chaudhary: Terminal Commands.md, Vi_Explained.md, GitandOthers.md
