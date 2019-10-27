@@ -1,5 +1,6 @@
 # Index
 
-### 1. AFS Commands 
+### 1. [Terminal Commands](https://github.com/rg559/Mini-Project-1/blob/master/TerminalCommands.md) 
 ### 2. [Introdution to GIT](https://rg559.github.io/Mini-Project-1/master/GitIntroduction.md)
-### 3. Misc.
+### 3. [Vi_Explained](https://github.com/rg559/Mini-Project-1/blob/master/Vi_explained.md)
+### 4. [GitandOthers](https://github.com/rg559/Mini-Project-1/blob/master/GitandOthers.md)
