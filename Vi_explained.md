@@ -14,3 +14,15 @@ When vi runs, it takes over the terminal window. Initially, the user is in comma
 2. **Insert Mode:** When the user presses the key "i", vi switches to insert mode, as the word “– INSERT –” at the bottom of the window reminds you. Everything you type will be inserted as text. To get back from insert to command mode, hit the <esc> key.      
 
 3. **Last line Mode:** When the colon (:) key is pressed, vi switches to last line mode. While in last line mode, a command line is entered at the bottom of the window. It’s executed only when the user presses <enter>. To save what whats inserted, type “:w” (colon followed by lower-case w and <enter>). That will write the file out. If it is a new file, the user will need to provide a file name. This is done by entering “:w filename” followed by <enter>. After this, it will return you to command mode.
+
+## Why use the Vi Editor?
+
+Vim controls look strange to start with but there is a logic to them where you combine movements and actions, so eventually they make a lot of sense. Once you are familiar you can do things quicker than in other editors (and without having to take you hands off the keyboard).The following are the benefits of using Vi editor:
+
+1. Vi is available on any UNIX machine and hence is universal.
+2. Vim supports several programming languages and file formats.
+3. It's much quicker to use vi for a sudo edit.
+4. It is very light-weight.
+5. Typing and Navigating around text is easy and productive.
+6. Provides rich number of command set.
+
